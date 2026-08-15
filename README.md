@@ -1,4 +1,4 @@
-"""# Miniguia de Estudo: Desenvolvimento Orientado a Especificações (Spec-Driven Development) com IA
+# Miniguia de Estudo: Desenvolvimento Orientado a Especificações (Spec-Driven Development) com IA
 
 Este documento reúne o consolidado de estudos baseado na mentoria sobre **Spec-Driven Development (SDD)**, **Seed Specs**, **Guardrails** e **Governança de Custos/Contexto em Agentes de IA**.
 
